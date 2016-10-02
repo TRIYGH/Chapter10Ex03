@@ -1,0 +1,9 @@
+E:\trwCh10Ex03\trwCh10Ex03\bin\Debug\trwCh10Ex03.exe.config
+E:\trwCh10Ex03\trwCh10Ex03\bin\Debug\trwCh10Ex03.exe
+E:\trwCh10Ex03\trwCh10Ex03\bin\Debug\trwCh10Ex03.pdb
+E:\trwCh10Ex03\trwCh10Ex03\obj\Debug\trwCh10Ex03.csprojResolveAssemblyReference.cache
+E:\trwCh10Ex03\trwCh10Ex03\obj\Debug\trwCh10Ex03.Form1.resources
+E:\trwCh10Ex03\trwCh10Ex03\obj\Debug\trwCh10Ex03.Properties.Resources.resources
+E:\trwCh10Ex03\trwCh10Ex03\obj\Debug\trwCh10Ex03.csproj.GenerateResource.Cache
+E:\trwCh10Ex03\trwCh10Ex03\obj\Debug\trwCh10Ex03.exe
+E:\trwCh10Ex03\trwCh10Ex03\obj\Debug\trwCh10Ex03.pdb
